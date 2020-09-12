@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+#tbl tr {
+  background-color: #03a9f424;
+}
+
+#tbl tr:nth-of-type(odd) {
+  background-color: #ffffff;
+}
+
+#tbl thead tr {
+  background-color: #0000000d !important;
+}
+
+#txtNombre {
+  width: 50% !important;
+}
